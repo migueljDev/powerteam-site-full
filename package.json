@@ -1,6 +1,6 @@
 
 {
-  "name": "powerteam-site-enhanced",
+  "name": "powerteam-site-vercel-ready",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
