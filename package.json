@@ -1,6 +1,6 @@
 
 {
-  "name": "powerteam-site",
+  "name": "powerteam-site-enhanced",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
